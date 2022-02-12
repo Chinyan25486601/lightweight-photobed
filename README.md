@@ -1,6 +1,6 @@
 # Lightweight Photobed
-Put the photo you want into directory ../ and its children directory, then you are able to access these photo by the path related to ../.
-The default port in use is 14517. You can change it by modifying the constant PORT in index.js
+Put the photo you want into directory ../ and its children directory, then you are able to access these photo by the path related to ../. 
+The default port in use is 14517. You can change it by modifying the constant PORT in index.js. 
 Run `yarn start` to start.
 
 # 轻量级图床
